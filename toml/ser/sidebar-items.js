@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","Errors that can occur when serializing a type."]],"fn":[["to_string","Serialize the given data structure as a String of TOML."],["to_vec","Serialize the given data structure as a TOML byte vector."]],"struct":[["Serializer","Serialization implementation for TOML."]]});
